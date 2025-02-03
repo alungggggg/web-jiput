@@ -2,7 +2,7 @@ import React from "react";
 
 export const About = (props) => {
   return (
-    <div id="about">
+    <div id="about" style={{ backgroundColor: "#f6f6f6" }}>
       <div className="container">
         <div className="row">
           <div className="col-xs-12 col-md-6">

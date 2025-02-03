@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Wisata Alam Sumber Jiput",
+    "paragraph": "Nikmati kesejukan dan keindahan sumber air alami dan berbagai wahana permainan menyenangkan"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Sumber Jiput yaitu sebuah lokasi wisata mata air yang terletak di Kelurahan Rejomulyo, Kecamatan Pesantren yang disakralkan oleh warga sekitar. Konon sumber jiput yaitu sumber dari mata air dan angin, ada lebih dari 3 sumber mata air yang menjadi sumber kehidupan warga sekitar buat bercocok tanam, minum dan kebutuhan sehari-hari. Mata air tersebut sekaligus menjadi sumber munculnya angin yang secara misterius tiba dari lokasi itu, yang kemudian berubah menjadi angin",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -20,34 +20,34 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Bebek Air",
+      "largeImage": "img/portfolio/Galeri-1.jpg",
+      "smallImage": "img/portfolio/Galeri-1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Bebek Air",
+      "largeImage": "img/portfolio/Galeri-2.jpg",
+      "smallImage": "img/portfolio/Galeri-2.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Spot Foto",
+      "largeImage": "img/portfolio/Galeri-3.jpg",
+      "smallImage": "img/portfolio/Galeri-3.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Kedai",
+      "largeImage": "img/portfolio/Galeri-4.jpg",
+      "smallImage": "img/portfolio/Galeri-4.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Harga",
+      "largeImage": "img/portfolio/Harga.jpg",
+      "smallImage": "img/portfolio/Harga.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Papan-1",
+      "largeImage": "img/portfolio/Papan-1.png",
+      "smallImage": "img/portfolio/Papan-1.png"
     },
     {
       "title": "Project Title",
@@ -99,56 +99,56 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "https://lh3.googleusercontent.com/a-/ALV-UjWQ64dkVw36BxIuiLAlYpVNj4UmOPc0Uv1bh1hWywj2GyBcXf6q=s64-c-rp-mo-ba4-br100",
+      "text": "Akses mudah banget\nHanya bayar parkir (mobil 5rb)\nBeli makan ikan 1rb an seplastik kecil\nBanyak warung didepan pintu masuk.\nAda kolam tetapi...",
+      "name": "Nurul Amalia"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "https://lh3.googleusercontent.com/a-/ALV-UjXAp-kxGDrjQGqethcp8h2nk_7d8ezEpanSJlLkbhUygLyWgnNsLQ=s64-c-rp-mo-ba3-br100",
+      "text": "Tempat wisata yg seruuuuuuuuu bgt.. tempatnya bersih, ada banyak ikann, berbagai wahanaaa\nIni pokoknya seru bgtttt\n...",
+      "name": "Salma Yulianti"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "https://lh3.googleusercontent.com/a-/ALV-UjUg6WuNjU4sRQU8Vv_lDiQWY5hWdItp3Oyj0vXOQ62jf09-tBvz=s64-c-rp-mo-ba3-br100",
+      "text": "Wisata murah meriah di Kota Kediri. Cukup bayar parkir sukarela. Suasananya tenang kalau pas tdk weekend. Asri dan rindang. Cocok buat healing. Ada perahu bebek dan kolam terapi ikan. …",
+      "name": "Desinta M"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "https://lh3.googleusercontent.com/a/ACg8ocKW-969LmaBM9Rv7YgnE5oIlj1Wgp5CUsOyY-NBSxCRF0I46Q=s64-c-rp-mo-br100",
+      "text": "Worth it sekali untuk dikunjungi. Bayar parkir seikhlasnya, makanan dan minumannya sangat terjangkau dan sesuai harganya , cocok sekali untuk menikmati waktu bersama keluarga dan menyejukkan pikira...",
+      "name": "Rizka Rindia"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "https://lh3.googleusercontent.com/a-/ALV-UjWrQTb5z0YaxVHBqjWCFcWzT-c-mNMvdYNwhlsB8LEla9K6Vnt-=s64-c-rp-mo-ba5-br100",
+      "text": "Sumber Jiput di Kediri menawarkan suasana rindang dan teduh, ideal untuk bersantai. Di sini, Anda bisa menemukan kolam dengan banyak ikan, serta tempat bermain seperti kapal...",
+      "name": "Bisma Anassuka"
     },
     {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "https://lh3.googleusercontent.com/a-/ALV-UjWfuy9d3SR39j05P14F2JIO4jF4JafZZS9qM3Q-pzP6GQ73u4lX=s64-c-rp-mo-br100",
+      "text": "Tempat healing dari penatnya kuliah paling deket, bisa ngasih makan ikan, main bebek-bebek-an, cuma gubuk buat neguh cuma beberapa, tapi tetap sejuk.",
+      "name": "Aisyah Cahyani"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Bebek Air",
+      "job": ""
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Sepeda Udara",
+      "job": ""
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Flying Fox",
+      "job": ""
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Playground",
+      "job": ""
     }
   ],
   "Contact": {

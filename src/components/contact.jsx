@@ -162,7 +162,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
+            &copy; 2025 KKN-T UNP KEDIRI 2025. Design by{" "}
             <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a>

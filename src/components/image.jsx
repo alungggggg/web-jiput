@@ -1,6 +1,7 @@
 import React from "react";
 
 export const Image = ({ title, largeImage, smallImage }) => {
+  console.log(title, smallImage, largeImage);
   return (
     <div className="portfolio-item">
       <div className="hover-bg">

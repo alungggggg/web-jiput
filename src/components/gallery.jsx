@@ -2,14 +2,14 @@ import { Image } from "./image";
 import React from "react";
 
 export const Gallery = (props) => {
+  console.log(props.data);
+
   return (
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
           <h2>Gallery</h2>
-          <p>
-            Berikut adalah beberapa foto yang bisa dijadikan referensi.
-          </p>
+          <p>Berikut adalah beberapa foto yang bisa dijadikan referensi.</p>
         </div>
         <div className="row">
           <div className="portfolio-items">
